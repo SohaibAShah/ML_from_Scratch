@@ -28,13 +28,19 @@ It can handle both classification and regression tasks.
 An ensemble learning method that combines multiple decision trees to improve prediction accuracy.
 It reduces overfitting and increases model robustness.
 
-## How to Use
-Clone the Repository:
-```
-git clone https://github.com/SohaibAShah/ML_from_Scratch.git
-```
-Use code with caution.
+### 6. Naive Bayes:
 
+A probabilistic classification algorithm based on Bayes' theorem, assuming independence between features.
+It's widely used for text classification and spam filtering.
+
+## How to Use
+```
+Clone the Repository:
+
+git clone https://github.com/SohaibAShah/ML_from_Scratch.git
+
+Use code with caution.
+```
 #### Install Dependencies: 
 Ensure you have the necessary libraries installed, such as NumPy, Pandas, Matplotlib, etc.
 ##### Run the Code: 
